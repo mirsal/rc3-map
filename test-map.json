@@ -896,8 +896,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":30,
          "firstgid":321,
-         "source":"fantasy.tsx"
+         "image":"hyptosis_til-art-batch-2-1.png",
+         "imageheight":960,
+         "imagewidth":960,
+         "margin":0,
+         "name":"fantasy",
+         "spacing":0,
+         "tilecount":900,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":0,
