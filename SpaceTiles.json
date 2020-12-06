@@ -1,0 +1,336 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"SpaceTiles",
+ "spacing":0,
+ "tilecount":53,
+ "tiledversion":"1.4.3",
+ "tileheight":128,
+ "tiles":[
+        {
+         "id":0,
+         "image":"SpaceTile\/Door type 1\/DoorCenteDown.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":1,
+         "image":"SpaceTile\/Door type 1\/DoorCenterUp.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":2,
+         "image":"SpaceTile\/Door type 1\/DoorEmpty.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":3,
+         "image":"SpaceTile\/Door type 1\/DoorLeftCenter.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":4,
+         "image":"SpaceTile\/Door type 1\/DoorLeftDown.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":5,
+         "image":"SpaceTile\/Door type 1\/DoorLeftUp.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":6,
+         "image":"SpaceTile\/Door type 1\/DoorRightCenter.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":7,
+         "image":"SpaceTile\/Door type 1\/DoorRightDown.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":8,
+         "image":"SpaceTile\/Door type 1\/DoorRightUp.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":9,
+         "image":"SpaceTile\/Ground type 1\/GroundCenter.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":10,
+         "image":"SpaceTile\/Ground type 1\/GroundLeft.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":11,
+         "image":"SpaceTile\/Ground type 1\/GroundRight.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":12,
+         "image":"SpaceTile\/Pipe type 1\/PipeCenter.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":13,
+         "image":"SpaceTile\/Pipe type 1\/PipeCenterJoint.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":21,
+         "image":"SpaceTile\/Tile props\/Grate.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":22,
+         "image":"SpaceTile\/Tile props\/Screen1.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":23,
+         "image":"SpaceTile\/Tile props\/Screen2.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":24,
+         "image":"SpaceTile\/Tile props\/Screen3.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":25,
+         "image":"SpaceTile\/Tile props\/WallCenter5_Down.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":26,
+         "image":"SpaceTile\/Tile props\/WallCenter5.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":27,
+         "image":"SpaceTile\/Tile props\/WallCenter5Up.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":28,
+         "image":"SpaceTile\/Tile props\/WallTile3.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":29,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 2_Down.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":30,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 2_Up.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":31,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 2.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":32,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 3_Down.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":33,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 3_Up.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":34,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 3.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":35,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 4_Down.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":36,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 4_Up.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":37,
+         "image":"SpaceTile\/Tile props\/WallTileLanter 4.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":38,
+         "image":"SpaceTile\/Wall type 1\/Up\/WallCenterUp1.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":39,
+         "image":"SpaceTile\/Wall type 1\/Up\/WallCenterUp2.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":40,
+         "image":"SpaceTile\/Wall type 1\/RightEdge\/WallEdgeRight.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":41,
+         "image":"SpaceTile\/Wall type 1\/RightEdge\/WallEdgeRight1.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":42,
+         "image":"SpaceTile\/Wall type 1\/LeftEdge\/WallEdgeLeft.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":43,
+         "image":"SpaceTile\/Wall type 1\/LeftEdge\/WallEdgeLeft1.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":44,
+         "image":"SpaceTile\/Wall type 1\/Center\/WallCenter.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":45,
+         "image":"SpaceTile\/Wall type 1\/Center\/WallCenter3.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":46,
+         "image":"SpaceTile\/Wall type 1\/Center\/WallLantern.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":47,
+         "image":"SpaceTile\/Wall type 1\/Bottom\/WallCenterBottom1.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":48,
+         "image":"SpaceTile\/Wall type 1\/Bottom\/WallCenterBottom2.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":49,
+         "image":"SpaceTile\/PoleTile.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":50,
+         "image":"SpaceTile\/PoleTile1.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":51,
+         "image":"SpaceTile\/Window\/WindowBottomCenter.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":52,
+         "image":"SpaceTile\/Window\/WindowBottomEdge.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":53,
+         "image":"SpaceTile\/Window\/WindowBottomEdgeRight.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":54,
+         "image":"SpaceTile\/Window\/WindowLeft.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":55,
+         "image":"SpaceTile\/Window\/WindowRight.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":56,
+         "image":"SpaceTile\/Window\/WindowsEmpty.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":57,
+         "image":"SpaceTile\/Window\/WindowUpCenter.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":58,
+         "image":"SpaceTile\/Window\/WindowUpEdgeLeft.png",
+         "imageheight":128,
+         "imagewidth":128
+        }, 
+        {
+         "id":59,
+         "image":"SpaceTile\/Window\/WindowUpEdgeRight.png",
+         "imageheight":128,
+         "imagewidth":128
+        }],
+ "tilewidth":128,
+ "type":"tileset",
+ "version":1.4
+}
