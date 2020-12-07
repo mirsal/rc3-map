@@ -280,7 +280,7 @@
         {
          "columns":10,
          "firstgid":901,
-         "image":"..\/tilesets\/mldung\/2DMLDUNG1_v1.0\/outside.png",
+         "image":"outside.png",
          "imageheight":384,
          "imagewidth":320,
          "margin":0,
@@ -546,7 +546,7 @@
         {
          "columns":12,
          "firstgid":1021,
-         "image":"..\/tilesets\/Dead Swamp\/swamp-br\u0081he animated-v5.png",
+         "image":"swamp-brhe-animated-v5.png",
          "imageheight":128,
          "imagewidth":384,
          "margin":0,
@@ -780,7 +780,7 @@
         {
          "columns":8,
          "firstgid":1069,
-         "image":"..\/tilesets\/Dead Swamp\/swamp-v3 - shrooms-preview.png",
+         "image":"swamp-v3-shrooms-preview.png",
          "imageheight":224,
          "imagewidth":256,
          "margin":0,
