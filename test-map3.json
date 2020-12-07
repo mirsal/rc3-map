@@ -29,7 +29,7 @@
          "encoding":"base64",
          "height":20,
          "id":6,
-         "name":"teleporter-out",
+         "name":"teleporterout",
          "opacity":1,
          "properties":[
                 {
@@ -49,13 +49,13 @@
          "encoding":"base64",
          "height":20,
          "id":5,
-         "name":"teleporter-in",
+         "name":"teleporterin",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#teleporter-out"
+                 "value":"#teleporterout"
                 }],
          "type":"tilelayer",
          "visible":true,
