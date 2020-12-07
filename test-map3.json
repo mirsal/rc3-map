@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#tp1"
+                 "value":"#teleporter-out"
                 }],
          "type":"tilelayer",
          "visible":true,
